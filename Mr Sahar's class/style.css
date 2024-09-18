@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*body{
+    background-color: #ad1515;
+}*/
+header{
+    background-color: #0e0101;
+    color: #8b5b5b;
+    padding: 15px;
+    text-align: center;
+}
+
+header h1{
+    text-decoration:solid;
+    font-style:italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 10px;
+}
+
+main{
+    padding: 2px;
+}
+
+body{
+    background-color: #2d0404;
+}
+
+.image-1:hover{
+    transform: translateY(-10px);
+}
+
+.image-2:hover{
+    /*transform: rotateY('angle');*/
+    transform: translateX(20px);
+}
+
+.image-3:hover{
+    transform: translateY(25px)
+}
+
+.image-text{
+    font-style: italic;
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 15px;
+    /*justify-content: space-around;*/
+    gap:50px;
+}
+
+.image-1{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+    transition: 3s;
+}
+
+.image-1 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-2{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+    transition: 5s;
+}
+
+.image-2 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-3{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+    transition: 5s;
+}
+
+.image-3 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-4{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+}
+
+.image-4 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-5{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+}
+
+.image-5 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-6{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+}
+
+.image-6 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-7{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+}
+
+.image-7 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-8{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+}
+
+.image-8 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-9{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+}
+
+.image-9 img{
+    width: 100%;
+    height: 90%;
+}
+
+.image-10{
+    background-color: pink;
+    width: 300px;
+    height: 300px;
+    border: 3px double #3d3434; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #3d3434;
+}
+
+.image-10 img{
+    width: 100%;
+    height: 90%;
+}
